@@ -3,8 +3,8 @@
   "short_name": "Tacker",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#baaf34",
-  "theme_color": "baaf34",
+  "background_color": "444443",
+  "theme_color": "444443",
   "description": "A money tracker application",
   "icons": [
     {
@@ -19,3 +19,4 @@
     }
   ]
 }
+
